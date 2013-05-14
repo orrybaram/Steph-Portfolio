@@ -1,0 +1,190 @@
+/* RESET
+================================================= 
+ http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+	font-family: sans-serif;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* UTILITIES */
+
+.hidden {
+	display:none!important;
+}
+
+/* MAIN STYLES
+================================================= */
+header {
+	margin: 50px 8px;
+}
+h1 {
+	display:inline-block;
+	font-size: 40px;
+	font-weight: bold;
+
+}
+span {
+    font-weight: lighter;
+	
+}
+nav {
+	display:inline-block;
+	float: right;
+	font-family: helvetica;
+}
+nav a {
+	display:inline-block;
+    text-decoration: none;
+    color : grey;
+    margin: 25px 0px 0px;
+    font-weight: lighter;
+    font-family: helvetica;
+}   
+#wrapper {
+	width: 1140px;
+	margin: 0 auto;
+}	
+#portfolio {
+	width: 1140px;
+	margin: 0 auto;
+}
+.project {
+	width: 266px;
+	height: 266px;
+	margin: 8px;
+	display:inline-block;
+}
+#chair {
+	background-image: url('img/Back.jpg');
+	background-size: 250%;
+	background-position: right-center;
+}
+#table{
+	background-image: url('img/Table.jpg');
+	background-size: 150%;
+	background-position: center;
+}
+#tray{
+	background-image: url('img/Tray.jpg');
+	background-size: 150%;
+	background-position: center;
+}
+#doily{	
+	background-image: url('img/copy.jpg');
+	background-size: 150%;
+	background-position: center;
+}
+#wasp{	
+	background-image: url('img/prototype (1).jpg');
+	background-size: 150%;
+	background-position: center;
+}
+#lego{	
+	background-image: url('img/prototype.jpg');
+	background-size:  340%;
+	background-position: bottom-right;
+}
+#lighter{	
+	background-image: url('img/img_7685 copy.jpg');
+	background-size:  100%;
+	background-position: center;
+}
+#compass{
+	background-image: url('img/img_7731 copy.jpg');
+	background-size:  120%;
+	background-position: top-center;
+}
+#cross{
+	background-image: url('img/img_7724 copy.jpg');
+	background-size:  150%;
+	background-position: 50% 100%;
+}
+#wedge{
+	background-image: url('img/wedge.jpg');
+	background-size:  119%;
+	background-position: 60% 50%;
+}
+#clutch{
+	background-image: url('img/clutch.jpg');
+	background-size:  138%;
+	background-position: center;
+}
+#tree{
+	background-image: url('img/tree.jpg');
+	background-size:  138%;
+	background-position: center;	
+}
+#social-icons {
+	display:inline-block;
+	float: right;
+}
+#about {
+	margin: 50px 0px 0px 8px
+}	
+#about span {
+	font-size: 35px;
+
+}
+
+#about p {
+	margin: 30px;
+	text-align: center;
+	font-size: 20px;
+	font-family: helvetica;
+
+}
+#about a {
+	text-decoration: none;
+    color : grey;
+    font-weight: lighter;
+    font-family: helvetica;
+}
+
+footer {
+	margin: 30px 8px
+}
+
