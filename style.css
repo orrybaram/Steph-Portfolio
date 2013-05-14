@@ -99,17 +99,17 @@ nav a {
 	display:inline-block;
 }
 #chair {
-	background-image: url('img/Back.jpg');
+	background-image: url('img/back.jpg');
 	background-size: 250%;
 	background-position: right-center;
 }
 #table{
-	background-image: url('img/Table.jpg');
+	background-image: url('img/table.jpg');
 	background-size: 150%;
 	background-position: center;
 }
 #tray{
-	background-image: url('img/Tray.jpg');
+	background-image: url('img/tray.jpg');
 	background-size: 150%;
 	background-position: center;
 }
@@ -144,7 +144,7 @@ nav a {
 	background-position: 50% 100%;
 }
 #wedge{
-	background-image: url('img/wedge.jpg');
+	background-image: url('img/Wwedge.jpg');
 	background-size:  119%;
 	background-position: 60% 50%;
 }
