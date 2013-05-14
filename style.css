@@ -119,7 +119,7 @@ nav a {
 	background-position: center;
 }
 #wasp{	
-	background-image: url('img/prototype (1).jpg');
+	background-image: url('img/prototype-1.jpg');
 	background-size: 150%;
 	background-position: center;
 }
@@ -129,17 +129,17 @@ nav a {
 	background-position: bottom-right;
 }
 #lighter{	
-	background-image: url('img/img_7685 copy.jpg');
+	background-image: url('img/img_7685-copy.jpg');
 	background-size:  100%;
 	background-position: center;
 }
 #compass{
-	background-image: url('img/img_7731 copy.jpg');
+	background-image: url('img/img_7731-copy.jpg');
 	background-size:  120%;
 	background-position: top-center;
 }
 #cross{
-	background-image: url('img/img_7724 copy.jpg');
+	background-image: url('img/img_7724-copy.jpg');
 	background-size:  150%;
 	background-position: 50% 100%;
 }
