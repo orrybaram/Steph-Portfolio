@@ -163,7 +163,7 @@ nav a {
 	float: right;
 }
 #about {
-	margin: 50px 0px 0px 8px
+	margin: 100px 0px 100px;
 }	
 #about span {
 	font-size: 35px;
@@ -171,21 +171,29 @@ nav a {
 }
 
 #about p {
-	margin: 30px;
-	text-align: center;
+	margin: 30px 0;
 	font-size: 20px;
 	font-family: helvetica;
 	font-weight: lighter;
+	line-height: 32px;
+	color: #919090;
 
 }
 #about a {
 	text-decoration: none;
-    color : grey;
-    font-weight: lighter;
-    font-family: helvetica;
+     	color: grey;
+	font-weight: lighter;
+	font-family: helvetica;
+	display: inline-block;
 }
 
 footer {
-	margin: 30px 8px
+	margin: 30px 0px;
+}
+
+footer span {
+	font-weight: lighter;
+	font-size: 12px;
+	color: #grey;
 }
 
